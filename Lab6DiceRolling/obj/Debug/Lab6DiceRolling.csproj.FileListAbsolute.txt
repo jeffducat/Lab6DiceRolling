@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\bin\Debug\Lab6DiceRolling.exe.config
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\bin\Debug\Lab6DiceRolling.exe
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\bin\Debug\Lab6DiceRolling.pdb
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\obj\Debug\Lab6DiceRolling.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\obj\Debug\Lab6DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\obj\Debug\Lab6DiceRolling.exe
+C:\Users\jduca\source\repos\Lab6DiceRolling\Lab6DiceRolling\obj\Debug\Lab6DiceRolling.pdb
